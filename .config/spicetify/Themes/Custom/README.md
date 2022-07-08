@@ -1,24 +1,13 @@
-# Flow
-
-## Screenshots
-
-### Ocean
-<img src="https://raw.githubusercontent.com/spicetify/spicetify-themes/master/Flow/screenshots/ocean.png" alt="img"> 
+# Spicetify nord theme
 
 
-### Pink
-<img src="https://raw.githubusercontent.com/spicetify/spicetify-themes/master/Flow/screenshots/pink.png" alt="img"> 
 
+## Nord
+### Screenshots
+<img src="https://raw.githubusercontent.com/bembenk18/dotfile/main/.config/spicetify/Themes/Custom/screenshots/1.png" alt="img"> 
+<img src="https://raw.githubusercontent.com/bembenk18/dotfile/main/.config/spicetify/Themes/Custom/screenshots/2.png" alt="img"> 
 
-### Silver
-<img src="https://raw.githubusercontent.com/spicetify/spicetify-themes/master/Flow/screenshots/silver.png" alt="img"> 
-
-
-### Violet
-<img src="https://raw.githubusercontent.com/spicetify/spicetify-themes/master/Flow/screenshots/violet.png" alt="img"> 
-
-## Author
-Made by:
+## Thanks to:
 * https://github.com/Ruixi-Zhang
 * https://github.com/yslDevelop
 * https://github.com/ian-Liaozy
